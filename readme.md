@@ -1,3 +1,3 @@
 #Game Triangle
 
-Linux Build
+Linux Build <img src="https://travis-ci.org/vasilenko-alexander/Game_triangle.svg?branch=master"/>
